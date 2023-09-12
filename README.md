@@ -132,7 +132,7 @@ This will authenticate the admin user and provide an authentication `token`
 
 ### Using JWT Tokens
 
-Upon logging in, you can use the JWT obtained from the `register` or `authenticate` services to access other services. In the Swagger UI, there is a button in the top right corner labeled "Authorize" or "Authentication," where you can add the token as a Bearer token to HTTP requests. This token allows you to determine your access permissions.
+Upon logging in, you can use the JWT obtained from the `register` or `authenticate` services to access other services. In the Swagger UI, there is a button in the top right corner labeled "Authorize" where you can add the token as a Bearer token to HTTP requests. This token allows you to determine your access permissions.
 
 ```plaintext
 Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
