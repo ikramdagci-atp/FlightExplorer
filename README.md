@@ -14,7 +14,7 @@ Before you begin, ensure you have the following requirements:
 
    ```bash
 
-   git clone https://github.com/ikramdagci/FlightExplorer.git
+   git clone https://github.com/ikramdagci-atp/FlightExplorer.git
 
    ```
 
